@@ -10,4 +10,4 @@
 
 ## Description
 
-xxxxxxx [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Electrodynamics_(book)) como texto principal 
+My purpose with this repo is to share my love for physics.   [J. D. Jackson](https://en.wikipedia.org/wiki/Classical_Electrodynamics_(book)) como texto principal 
