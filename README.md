@@ -1,2 +1,4 @@
-# Physics_is_Fun
-This is a repo for science (physics) communication. 
+# Physics is Fun
+
+
+A repo for science (physics) communication. 
