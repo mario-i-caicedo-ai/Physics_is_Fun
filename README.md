@@ -21,9 +21,14 @@ To share this enduring passion and knowledge, I've created this repository. Its 
 
 
 
-## Notes
+## Lecture Notes
+
+**Remark** These notes are in what I would like to call: ``ehternal developement´, they come from, eithr answering questions to tutored students or my persojla notes for courses at USB. Being this the case, expect them to be incomplete and come back form time to time to seee if I have found the time to incorporate new material.
 
 
-* [Math is so much fun](docs/M_is_Fun.pdf) This are simple notes on precalculus, they provide most of the tools neded for algebra based physics
+* [Math is so much fun](docs/M_is_Fun.pdf) These are simple notes on precalculus, they provide most of the tools neded for algebra based physics
+
+* [Math is so much fun](docs/M_is_Fun.pdf) Algebra based one particle mechanics, i.e. kinematics, Newton's laws and simple applications
+
 
 * [Mecánica del Punto Material](docs/Mecanica_del_Punto_Material.pdf) [In spanish] This is a selfcontained calculus based introduction to Newtonian Mechanics
