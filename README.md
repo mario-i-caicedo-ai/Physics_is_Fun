@@ -30,4 +30,6 @@ To share this enduring passion and knowledge, I've created this repository. Its 
 
 * [Particle Mechanics](docs/Algebra_Based_Newtonian_MECHANICS.pdf) Algebra based newtonian mechanics, i.e. kinematics, Newton's laws and simple applications
 
+* [Electromagnetism](docs/Algebra_Based_Physics_ELECTROMAGNETISM.pdf) Algebra based electromagnetism. Frome electric charge to simple circuits
+
 * [Mecánica del Punto Material](docs/Mecanica_del_Punto_Material.pdf) [In spanish] This is a selfcontained calculus based introduction to Newtonian Mechanics
