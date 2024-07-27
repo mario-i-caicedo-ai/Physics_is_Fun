@@ -22,4 +22,4 @@ To share this enduring passion and knowledge, I've created this repository. Its 
 
 
 ## Notes
-[xxxxx](pics/Hawking_in_Zero_Gravity_NASA.jpg) como texto principal 
+[xxxxx](docs/Mecanica_del_Punto_Material.pdf) como texto principal 
