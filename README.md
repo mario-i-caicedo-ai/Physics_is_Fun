@@ -23,13 +23,17 @@ To share this enduring passion and knowledge, I've created this repository. Its 
 
 ## Lecture Notes
 
-**Remark** These notes are in what I would like to call: ``ehternal developement´, they come from, eithr answering questions to tutored students or my persojla notes for courses at USB. Being this the case, expect them to be incomplete and come back form time to time to seee if I have found the time to incorporate new material.
+**Remarks** 
 
+* These notes are in what I would like to call: ``ehternal developement´, they come from, eithr answering questions to tutored students or my persojla notes for courses at USB. Being this the case, expect them to be incomplete and come back form time to time to seee if I have found the time to incorporate new material.
+* Github does not have the ability to open thongs in newtbas, so you must be careful with that.
+* Github has some issues opening pdf fils, if the do not openm download them.
+  
 
-* [Math is so much fun](docs/M_is_Fun.pdf) These are simple notes on precalculus, they provide most of the tools neded for algebra based physics
+1 [Math is so much fun](docs/M_is_Fun.pdf) These are simple notes on precalculus, they provide most of the tools neded for algebra based physics
 
-* [Particle Mechanics](docs/Algebra_Based_Newtonian_MECHANICS.pdf) Algebra based newtonian mechanics, i.e. kinematics, Newton's laws and simple applications
+2 [Particle Mechanics](docs/Algebra_Based_Newtonian_MECHANICS.pdf) Algebra based newtonian mechanics, i.e. kinematics, Newton's laws and simple applications
 
-* [Electromagnetism](docs/Algebra_Based_Physics_ELECTROMAGNETISM.pdf) Algebra based electromagnetism. Frome electric charge to simple circuits
+3 [Electromagnetism](docs/Algebra_Based_Physics_ELECTROMAGNETISM.pdf) Algebra based electromagnetism. Frome electric charge to simple circuits
 
-* [Mecánica del Punto Material](docs/Mecanica_del_Punto_Material.pdf) [In spanish] This is a selfcontained calculus based introduction to Newtonian Mechanics
+6 [Mecánica del Punto Material](docs/Mecanica_del_Punto_Material.pdf) [In spanish] This is a selfcontained calculus based introduction to Newtonian Mechanics
