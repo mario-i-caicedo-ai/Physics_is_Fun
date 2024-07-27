@@ -28,6 +28,6 @@ To share this enduring passion and knowledge, I've created this repository. Its 
 
 * [Math is so much fun](docs/M_is_Fun.pdf) These are simple notes on precalculus, they provide most of the tools neded for algebra based physics
 
-* [Particle Mechanics](docs/Algebra_Based_Physics_MECHANICS.pdf) Algebra based newtonian mechanics, i.e. kinematics, Newton's laws and simple applications
+* [Particle Mechanics](docs/Algebra_Based_Newtonian_MECHANICS.pdf) Algebra based newtonian mechanics, i.e. kinematics, Newton's laws and simple applications
 
 * [Mecánica del Punto Material](docs/Mecanica_del_Punto_Material.pdf) [In spanish] This is a selfcontained calculus based introduction to Newtonian Mechanics
