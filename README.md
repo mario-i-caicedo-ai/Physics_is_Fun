@@ -22,4 +22,4 @@ To share this enduring passion and knowledge, I've created this repository. Its 
 
 
 ## Notes
-[xxxxx](docs/Mecanica_del_Punto_Material.pdf) como texto principal 
+[Mecánica del Punto Material](docs/Mecanica_del_Punto_Material.pdf) [In spanish] This is a selfcontained calculus based introduction to Newtonian Mechanics
