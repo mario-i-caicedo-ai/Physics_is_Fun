@@ -13,7 +13,7 @@
 
 ## Description
 
-Driven by a lifelong fascination with physics that ignited at the tender age of seven through countless hours of watching science documentaries, I embarked on a journey to become a "Mad Scientist." This journey culminated in becoming a full professor of physics at Universidad Simón Bolívar in Caracas, Venezuela, in 2003.
+Driven by a lifelong fascination with physics that ignited at the tender age of seven through countless hours of watching science documentaries, I embarked on a journey to become a "Mad Scientist." This journey culminated in becoming a full professor of physics at [Universidad Simón Bolívar](www.usb.ve) (USB) in Caracas, Venezuela, in 2003.
 
 To share this enduring passion and knowledge, I've created this repository. Its primary functions are twofold. First, I aim to foster physics education and outreach by curating and sharing diverse video resources, including YouTube segments of lectures, experiments, full-length documentaries, and animations. These resources will be complemented by book and lecture note references. Second, I provide tools and resources for algebra-based physics, designed to support high school students and independent learners. These tools include personal notes and Python notebooks for simulations, data analysis, and problem-solving.  
 
@@ -25,7 +25,7 @@ To share this enduring passion and knowledge, I've created this repository. Its 
 
 **Remarks** 
 
-* These notes are in what I would like to call: ``ehternal developement´, they come from, eithr answering questions to tutored students or my persojla notes for courses at USB. Being this the case, expect them to be incomplete and come back form time to time to seee if I have found the time to incorporate new material.
+* The lecture notes are in what I would like to call: ``state of ehternal developement'', they come from, either answering questions to tutored students or my personal notes for courses I teach or taught at USB. Being this the case, expect them to be incomplete and full of typos. Please feel free to point out any mistakes or obscure points that you think need more clarification. Come back from time to time to seee if I have found the time to incorporate new material.
 * Github does not have the ability to open thongs in newtbas, so you must be careful with that.
 * Github has some issues opening pdf fils, if the do not openm download them.
   
