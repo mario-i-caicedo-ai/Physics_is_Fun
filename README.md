@@ -25,7 +25,7 @@ To share this enduring passion and knowledge, I've created this repository. Its 
 
 **Remarks** 
 
-* The lecture notes are in what I would like to call: ``state of ehternal developement'', they come from, either answering questions to tutored students or my personal notes for courses I teach or taught at USB. Being this the case, expect them to be incomplete and full of typos.
+* The lecture notes (in pdf) are in what I would like to call: ``state of ehternal developement'', they come from, either answering questions to tutored students or my personal notes for courses I teach or taught at USB. Being this the case, expect them to be incomplete and full of typos.
   * Please feel free to point out any mistakes or obscure points that you think need more clarification.
   * Come back from time to time to seee if I have found the time to incorporate new material.
 * Github does not have the ability to open links in new  tabs, so you must be careful with that.
