@@ -32,7 +32,7 @@ To share this enduring passion and knowledge, I've created this repository. Its 
 * Github has some issues opening pdf files, if they do not open just download them.
   
 
-1 [Math is so much fun](docs/M_is_Fun.pdf) These are notes on precalculus, they provide most of the tools neded for algebra based physics
+1 [Math is so much fun](docs/M_is_Fun.pdf) Notes on precalculus, they provide most of the tools neded for algebra based physics
 
 2 [Particle Mechanics](docs/Algebra_Based_Newtonian_MECHANICS.pdf) Algebra based newtonian mechanics, i.e. kinematics, Newton's laws and simple applications
 
