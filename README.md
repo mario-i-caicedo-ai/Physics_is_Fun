@@ -17,7 +17,7 @@ Driven by a lifelong fascination with physics that ignited at the tender age of 
 
 To share this enduring passion and knowledge, I've created this repository. Its primary functions are twofold. First, I aim to foster physics education and outreach by curating and sharing diverse video resources, including YouTube segments of lectures, experiments, full-length documentaries, and animations. These resources will be complemented by book and lecture note references. Second, I provide tools and resources for algebra-based physics, designed to support high school students and independent learners. These tools include personal notes and Jupyter notebooks for simulations, data analysis, and problem-solving.  
 
-[My personal webpage](https://sites.google.com/view/marioicaicedo)
+
 
 
 
@@ -30,6 +30,7 @@ To share this enduring passion and knowledge, I've created this repository. Its 
   * Come back from time to time to seee if I have found the time to incorporate new material.
 * Github does not have the ability to open links in new  tabs, so please be careful and choose open in new tab when necessary.
 * Github has some issues opening pdf files, if one such a file does not open just download them.
+* [My personal webpage](https://sites.google.com/view/marioicaicedo)
   
 
 1 [Math is so much fun](docs/M_is_Fun.pdf) Notes on precalculus, they provide most of the tools neded for algebra based physics
