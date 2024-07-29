@@ -17,7 +17,7 @@ Driven by a lifelong fascination with physics that ignited at the tender age of 
 
 To share this enduring passion and knowledge, I've created this repository. Its primary functions are twofold. First, I aim to foster physics education and outreach by curating and sharing diverse video resources, including YouTube segments of lectures, experiments, full-length documentaries, and animations. These resources will be complemented by book and lecture note references. Second, I provide tools and resources for algebra-based physics, designed to support high school students and independent learners. These tools include personal notes and Jupyter notebooks for simulations, data analysis, and problem-solving.  
 
-
+[My personal webpage](https://sites.google.com/view/marioicaicedo)
 
 
 
@@ -26,7 +26,7 @@ To share this enduring passion and knowledge, I've created this repository. Its 
 **Remarks** 
 
 * The lecture notes (in pdf) are in what I would like to call: ``state of ehternal developement'', they come from, either answering questions to tutored students or my personal notes for courses I teach or taught at USB. Being this the case, expect them to be incomplete and full of typos.
-  * Please feel free to point out [any mistakes or obscure points][micaicedo60@gmail.com) that you think need more clarification.
+  * Please feel free to point out any mistakes or obscure points that you think need more clarification.
   * Come back from time to time to seee if I have found the time to incorporate new material.
 * Github does not have the ability to open links in new  tabs, so please be careful and choose open in new tab when necessary.
 * Github has some issues opening pdf files, if one such a file does not open just download them.
