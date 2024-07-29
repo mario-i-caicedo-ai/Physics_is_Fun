@@ -33,7 +33,7 @@ To share this enduring passion and knowledge, I've created this repository. Its 
 * [My personal webpage](https://sites.google.com/view/marioicaicedo)
   
 
-1 [Math is so much fun](docs/M_is_Fun.pdf) Notes on precalculus, they provide most of the tools neded for algebra based physics
+1 [Math is so much fun](docs/M_is_Fun.pdf) Notes on precalculus, they provide most of the tools needed for algebra based physics
 
 2 [Particle Mechanics](docs/Algebra_Based_Newtonian_MECHANICS.pdf) Algebra based newtonian mechanics. Kinematics, Newton's laws and simple applications
 
