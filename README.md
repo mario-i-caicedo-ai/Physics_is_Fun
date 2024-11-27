@@ -29,7 +29,7 @@ To share this enduring passion and knowledge, I've created this repository. Its 
   * Please feel free to point out any mistakes or obscure points that you think need more clarification.
   * Come back from time to time to seee if I have found the time to incorporate new material.
 * Github does not have the ability to open links in new  tabs, so please be careful and choose open in new tab when necessary.
-* Github has some issues opening pdf files, if one such a file does not open just download them.
+* Github has some issues opening pdf files, if one such a file does not open just download it.
 * [My personal webpage](https://sites.google.com/view/marioicaicedo)
   
 
