@@ -13,16 +13,15 @@
 
 ## Description
 
-Driven by a lifelong fascination or better said, love, for physics that ignited at the tender age of seven through countless hours of watching science documentaries, I embarked on a journey to become a "Mad Scientist." This journey culminated in becoming a full professor of physics at [Universidad Simón Bolívar](http://www.usb.ve) (USB) in Caracas, Venezuela, in 2003. I semiretired in 2016 meaning that I still lecture advanced courses to USB graduate students of physics.
+Driven by a lifelong fascination or better said, love, for physics that ignited at the tender age of seven through countless hours of watching science documentaries, I embarked on a journey to become a "Mad Scientist." This journey culminated with [me](https://sites.google.com/view/marioicaicedo) becoming a Full Professor of physics at [Universidad Simón Bolívar](http://www.usb.ve) (USB) in Caracas, Venezuela, in 2003. I in 2016 after almost thirty years of teaching and research, I semi retired (meaning that I still lecture advanced courses to USB graduate students of physics).
 
-To share this enduring passion and knowledge, I am creating (please note my emphasis in the present continuos tense) this repository. I invite you to explore these resources freely and embark on your own physics journey
+To share this enduring passion for science in general and physics in particular, I am creating (please note my emphasis in the present continuos tense) this repository. I gladly invite you to explore these resources freely and embark on your own physics journey
 
 This is what you will find in this repo. 
 
 *  Lecture notes on different topics of physics and math, I am making every possible effort to mantain the text free from calculus, or as many people say, the notes are non calculus physics.
 *  I aim to foster physics education and outreach by linking to diverse video resources, including YouTube segments of lectures, experiments, full-length documentaries, and animations.
 *  Also in my plans I wish to create and freely share Python codes in Jupyter notebooks for simulations, data analysis, and problem-solving.  
-
 
 
 ## Lecture Notes
@@ -34,10 +33,10 @@ This is what you will find in this repo.
   * Come back from time to time to seee if I have found the time to incorporate new material.
 * Github does not have the ability to open links in new  tabs, so please be careful and choose open in new tab when necessary.
 * Github has some issues opening pdf files, if one such a file does not open just download it (downloading will always work).
-* [My personal webpage](https://sites.google.com/view/marioicaicedo)
+
   
 
-1 [Particle Mechanics](docs/Algebra_Based_Physics_MECHANICS.pdf) Algebra based newtonian mechanics. Kinematics, Newton's laws and simple applications
+1 [Algebra Based Physics: Mechanics](docs/Algebra_Based_Physics_MECHANICS.pdf) Algebra based newtonian mechanics. Kinematics, Newton's laws and simple applications
 
 [Math is so much fun](docs/M_is_Fun.pdf) Notes on precalculus, they provide many of the tools needed for algebra based physics
 
