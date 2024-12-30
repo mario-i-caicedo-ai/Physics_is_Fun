@@ -38,7 +38,7 @@ This is what you will find in this repo.
 
 1 [Algebra Based Physics: Mechanics](docs/Algebra_Based_Physics_MECHANICS.pdf) Algebra based newtonian mechanics. Kinematics, Newton's laws and simple applications
 
-2 1 [Algebra Based Physics: Electromagnetism](docs/Algebra_Based_Physics_MECHANICS.pdf) Algebra based newtonian mechanics. Kinematics, Newton's laws and simple applications
+2 [Algebra Based Physics: Electromagnetism](docs/Algebra_Based_Physics_ELECTROMAGNETISM.pdf) For the moment these lecture notes are limited to some elementary circuit theory.
 
 [Math is so much fun](docs/M_is_Fun.pdf) Notes on precalculus, they provide many of the tools needed for algebra based physics
 
