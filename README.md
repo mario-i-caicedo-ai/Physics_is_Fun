@@ -37,10 +37,9 @@ This is what you will find in this repo.
 * [My personal webpage](https://sites.google.com/view/marioicaicedo)
   
 
-1 [Math is so much fun](docs/M_is_Fun.pdf) Notes on precalculus, they provide many of the tools needed for algebra based physics
+1 [Particle Mechanics](docs/Algebra_Based_Physics_MECHANICS.pdf) Algebra based newtonian mechanics. Kinematics, Newton's laws and simple applications
 
-2 [Particle Mechanics](docs/Algebra_Based_Newtonian_MECHANICS.pdf) Algebra based newtonian mechanics. Kinematics, Newton's laws and simple applications
+[Math is so much fun](docs/M_is_Fun.pdf) Notes on precalculus, they provide many of the tools needed for algebra based physics
 
-3 [Electromagnetism](docs/Algebra_Based_Physics_ELECTROMAGNETISM.pdf) Algebra based electromagnetism. From electric charge to simple circuits.
 
 6 [Mecánica del Punto Material](docs/Mecanica_del_Punto_Material.pdf) [In spanish] This is a selfcontained calculus based introduction to Newtonian Mechanics
