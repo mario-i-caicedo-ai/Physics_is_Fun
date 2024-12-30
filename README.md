@@ -42,4 +42,4 @@ This is what you will find in this repo.
 
 3 [Math is so much fun](docs/Math_is_Fun.pdf) Some notes on precalculus, they provide many of the tools needed for algebra based physics
 
-4 [Mecánica del Punto Material](docs/Mecanica_del_Punto_Material.pdf) This is a selfcontained calculus based introduction to Newtonian Mechanics which , for the moment is available in spanish only. My plan for the months to come is to ask the help of one of my friends Gemini, Meta AI, Claude (all the Generative AI's) to translate the book to english 
+4 [Mecánica del Punto Material](docs/Mecanica_del_Punto_Material.pdf) This is a selfcontained calculus based introduction to Newtonian Mechanics which , for the moment is available in spanish only. My plan for the months to come is to ask the help of one of my friends Gemini, Meta AI, Claude (all them Generative AI's) to translate the book to english 
