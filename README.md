@@ -15,11 +15,13 @@
 
 Driven by a lifelong fascination or better said, love, for physics that ignited at the tender age of seven through countless hours of watching science documentaries, I embarked on a journey to become a "Mad Scientist." This journey culminated in becoming a full professor of physics at [Universidad Simón Bolívar](http://www.usb.ve) (USB) in Caracas, Venezuela, in 2003.
 
-To share this enduring passion and knowledge, I've created this repository. I invite you to explore these resources freely and embark on your own physics journey
+To share this enduring passion and knowledge, I am creating (please note my emphasis in the present continuos tense) this repository. I invite you to explore these resources freely and embark on your own physics journey
 
-The primary functios of the repo are twofold. 
+This is what you will find in this repo. 
 
-*  First, will publish notes on different physics topics and levelesI aim to foster physics education and outreach by curating and sharing diverse video resources, including YouTube segments of lectures, experiments, full-length documentaries, and animations. These resources will be complemented by book and lecture note references. Second, I provide tools and resources for algebra-based physics, designed to suppo.rt high school students and independent learners. These tools include personal notes and Jupyter notebooks for simulations, data analysis, and problem-solving.  
+*  Lecture notes on different topics of physics and math, I am making every possible effort to mantain the text free from calculus, or as many people say, the notes are non calculus physics.
+*  I aim to foster physics education and outreach by linking to diverse video resources, including YouTube segments of lectures, experiments, full-length documentaries, and animations.
+*  Also in my plans I wish to create Python codes in Jupyter notebooks for simulations, data analysis, and problem-solving.  
 
 
 
@@ -29,15 +31,15 @@ The primary functios of the repo are twofold.
 
 **Remarks** 
 
-* The lecture notes (in pdf) are in what I would like to call: ``state of ehternal developement'', they come from, either answering questions to tutored students or my personal notes for courses I teach or taught at USB. Being this the case, expect them to be incomplete and full of typos.
+* The lecture notes (in pdf) are in what I would like to call: ``state of ehternal developement'', they come from, either answering questions to tutored students or from my personal notes for courses I teach or have taught at USB. Being this the case, expect them to be incomplete and full of typos.
   * Please feel free to point out any mistakes or obscure points that you think need more clarification.
   * Come back from time to time to seee if I have found the time to incorporate new material.
 * Github does not have the ability to open links in new  tabs, so please be careful and choose open in new tab when necessary.
-* Github has some issues opening pdf files, if one such a file does not open just download it.
+* Github has some issues opening pdf files, if one such a file does not open just download it (downloading will always work).
 * [My personal webpage](https://sites.google.com/view/marioicaicedo)
   
 
-1 [Math is so much fun](docs/M_is_Fun.pdf) Notes on precalculus, they provide most of the tools needed for algebra based physics
+1 [Math is so much fun](docs/M_is_Fun.pdf) Notes on precalculus, they provide many of the tools needed for algebra based physics
 
 2 [Particle Mechanics](docs/Algebra_Based_Newtonian_MECHANICS.pdf) Algebra based newtonian mechanics. Kinematics, Newton's laws and simple applications
 
