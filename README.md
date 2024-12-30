@@ -40,7 +40,6 @@ This is what you will find in this repo.
 
 2 [Algebra Based Physics: Electromagnetism](docs/Algebra_Based_Physics_ELECTROMAGNETISM.pdf) For the moment these lecture notes are limited to some elementary circuit theory.
 
-[Math is so much fun](docs/M_is_Fun.pdf) Notes on precalculus, they provide many of the tools needed for algebra based physics
+3 [Math is so much fun](docs/Math_is_Fun.pdf) Some notes on precalculus, they provide many of the tools needed for algebra based physics
 
-
-6 [Mecánica del Punto Material](docs/Mecanica_del_Punto_Material.pdf) This is a selfcontained calculus based introduction to Newtonian Mechanics which , for the moment is available in spanish only. My plan for the months to come is to ask the help of one of my friends Gemini, Meta AI, Claude (all the Generative AI's) to translate the book to english 
+4 [Mecánica del Punto Material](docs/Mecanica_del_Punto_Material.pdf) This is a selfcontained calculus based introduction to Newtonian Mechanics which , for the moment is available in spanish only. My plan for the months to come is to ask the help of one of my friends Gemini, Meta AI, Claude (all the Generative AI's) to translate the book to english 
