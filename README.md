@@ -13,7 +13,7 @@
 
 ## Description
 
-Driven by a lifelong fascination or better said, love, for physics that ignited at the tender age of seven through countless hours of watching science documentaries, I embarked on a journey to become a "Mad Scientist." This journey culminated in becoming a full professor of physics at [Universidad Simón Bolívar](http://www.usb.ve) (USB) in Caracas, Venezuela, in 2003.
+Driven by a lifelong fascination or better said, love, for physics that ignited at the tender age of seven through countless hours of watching science documentaries, I embarked on a journey to become a "Mad Scientist." This journey culminated in becoming a full professor of physics at [Universidad Simón Bolívar](http://www.usb.ve) (USB) in Caracas, Venezuela, in 2003. I semiretired in 2016 meaning that I still lecture advanced courses to USB graduate students of physics.
 
 To share this enduring passion and knowledge, I am creating (please note my emphasis in the present continuos tense) this repository. I invite you to explore these resources freely and embark on your own physics journey
 
