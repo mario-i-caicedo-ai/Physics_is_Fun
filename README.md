@@ -21,9 +21,7 @@ This is what you will find in this repo.
 
 *  Lecture notes on different topics of physics and math, I am making every possible effort to mantain the text free from calculus, or as many people say, the notes are non calculus physics.
 *  I aim to foster physics education and outreach by linking to diverse video resources, including YouTube segments of lectures, experiments, full-length documentaries, and animations.
-*  Also in my plans I wish to create Python codes in Jupyter notebooks for simulations, data analysis, and problem-solving.  
-
-
+*  Also in my plans I wish to create and freely share Python codes in Jupyter notebooks for simulations, data analysis, and problem-solving.  
 
 
 
